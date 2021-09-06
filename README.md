@@ -5,9 +5,9 @@ This Project is abt Inventory Management using Nosql Database{.json file} using 
 IMS helps you to manage your inventory data and keep track of your sales record simultaneously.It also has a feature to mantain record of customer purchase details.
 
 ## Working
--Added new inventory to ProductRecord.json file.
--Catalogue Display after reading json file
--customer may purchase any number of item which is futher added to his card (if product "exist and is available") else it will display "not found"
+-Added new inventory to ProductRecord.json file. </br>
+-Catalogue Display after reading json file </br>
+-customer may purchase any number of item which is futher added to his card (if product "exist and is available") else it will display "not found" </br>
 -his/her purchase get recorded in cust_record.json whenever purchase is done, with corresponding time of purchase{topr[]},transectionID[],TotalBill Amount[]
 -this product sale will also be reflected in sale_record.json {where all products have their record of sale with corresponding the time of purchase[],transectionID[],total quantity sold[] }
 -ProductRecord.json also have record of which product is sold or not and against which TransectionID[],saletime[] under sale{}.
