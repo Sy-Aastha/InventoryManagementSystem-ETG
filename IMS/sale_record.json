@@ -1,0 +1,220 @@
+{
+ "1111": {
+  "name": "kurkure",
+  "SP": 20,
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sat Sep  4 14:21:58 2021"
+   ],
+   "transectionID": [
+    "e016bda4-878e-46bd-8771-917212eb85e2"
+   ]
+  }
+ },
+ "1112": {
+  "name": "chips",
+  "SP": 10,
+  "salerec": {
+   "sale": true,
+   "Salequant": 1,
+   "saleTime": [
+    "Sat Sep  4 14:22:21 2021"
+   ],
+   "transectionID": [
+    "268b8889-3cbf-4f3a-bfa5-82a74fca0b4d"
+   ]
+  }
+ },
+ "1001": {
+  "name": "kurkure",
+  "SP": 10,
+  "salerec": {
+   "sale": true,
+   "Salequant": 10,
+   "saleTime": [
+    "Sun Sep  5 01:34:35 2021",
+    "Sun Sep  5 01:35:26 2021",
+    "Sun Sep  5 01:36:00 2021",
+    "Sun Sep  5 19:09:11 2021",
+    "Sun Sep  5 19:09:30 2021"
+   ],
+   "transectionID": [
+    "2294ba29-fdd9-4b91-bef4-4e0f0c53b27a",
+    "d8ebb99f-0b60-45e2-bbd9-de75cabe5cce",
+    "2e379fd5-170a-4f42-ad2b-d8fe52cc6072",
+    "93be83b9-bab7-4e12-be8e-332f012b5a27",
+    "ce5a154f-e0a3-4bfa-8680-0ea8ae12af25"
+   ]
+  }
+ },
+ "1002": {
+  "name": "parle-G biscuits",
+  "SP": 10,
+  "salerec": {
+   "sale": true,
+   "Salequant": 3,
+   "saleTime": [
+    "Sun Sep  5 01:36:46 2021"
+   ],
+   "transectionID": [
+    "85926ab6-5546-481d-9fc9-053458292340"
+   ]
+  }
+ },
+ "1026": {
+  "name": "GoodDay Biscuits",
+  "SP": 30,
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 01:36:37 2021"
+   ],
+   "transectionID": [
+    "101342be-a427-4944-be35-0ab0f0aa04f9"
+   ]
+  }
+ },
+ "1003": {
+  "name": "Chilli-lays",
+  "SP": 15,
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 19:09:17 2021"
+   ],
+   "transectionID": [
+    "cf15becc-2285-4bd4-b567-9ea21b7abea2"
+   ]
+  }
+ },
+ "1005": {
+  "name": "borbourn biscuits",
+  "SP": 30,
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 19:08:29 2021"
+   ],
+   "transectionID": [
+    "5063ebec-ebac-433e-a859-041402b4beba"
+   ]
+  }
+ },
+ "1019": {
+  "name": "MaryGold biscuits",
+  "SP": 35,
+  "salerec": {
+   "sale": true,
+   "Salequant": 3,
+   "saleTime": [
+    "Sun Sep  5 19:10:09 2021"
+   ],
+   "transectionID": [
+    "17f226cb-b61e-4fa9-8f84-2883abeea4c5"
+   ]
+  }
+ },
+ "1024": {
+  "name": "VIM",
+  "SP": 30,
+  "salerec": {
+   "sale": true,
+   "Salequant": 3,
+   "saleTime": [
+    "Sun Sep  5 19:09:56 2021"
+   ],
+   "transectionID": [
+    "575be98b-ecf8-4f03-b2a0-2b88ad646e2d"
+   ]
+  }
+ },
+ "1025": {
+  "name": "Dettol Hand sanitizer",
+  "SP": 220,
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 19:09:42 2021"
+   ],
+   "transectionID": [
+    "b10e0ff8-bcb1-45cb-b1b5-7e86a77fb137"
+   ]
+  }
+ },
+ "1027": {
+  "name": "choco Biscuits",
+  "SP": 20,
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 01:36:37 2021"
+   ],
+   "transectionID": [
+    "101342be-a427-4944-be35-0ab0f0aa04f9"
+   ]
+  }
+ },
+ "1028": {
+  "name": "milk chocolate",
+  "SP": 30,
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 01:36:37 2021"
+   ],
+   "transectionID": [
+    "101342be-a427-4944-be35-0ab0f0aa04f9"
+   ]
+  }
+ },
+ "1029": {
+  "name": "milk bikies",
+  "SP": 20,
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 01:36:37 2021"
+   ],
+   "transectionID": [
+    "101342be-a427-4944-be35-0ab0f0aa04f9"
+   ]
+  }
+ },
+ "1030": {
+  "name": "waffers",
+  "SP": 90,
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Mon Sep  6 09:14:03 2021"
+   ],
+   "transectionID": [
+    "f2bad768-a9b5-45dc-af08-3b98ed7dfdca"
+   ]
+  }
+ },
+ "1031": {
+  "name": "cocola",
+  "SP": 35,
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Mon Sep  6 09:13:54 2021"
+   ],
+   "transectionID": [
+    "e318cae0-691a-44e4-a074-62a764424235"
+   ]
+  }
+ }
+}

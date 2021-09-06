@@ -1,0 +1,105 @@
+{
+ "smith00": {
+  "name": "smith",
+  "Ph.no": "00",
+  "purchase_rec": [],
+  "topr": [],
+  "transectio_id": [],
+  "billAmount": []
+ },
+ "priya1234": {
+  "name": "priya",
+  "Ph.no": "1234",
+  "purchase_rec": [
+   [
+    "1111",
+    "1112"
+   ]
+  ],
+  "topr": [
+   "Sat Sep  4 14:22:21 2021"
+  ],
+  "transectio_id": [
+   "268b8889-3cbf-4f3a-bfa5-82a74fca0b4d"
+  ],
+  "billAmount": [
+   50
+  ]
+ },
+ "aastha9999": {
+  "name": "aastha",
+  "Ph.no": "9999999912",
+  "purchase_rec": [
+   [
+    "1001",
+    "1026",
+    "1002"
+   ]
+  ],
+  "topr": [
+   "Sun Sep  5 01:36:46 2021"
+  ],
+  "transectio_id": [
+   "85926ab6-5546-481d-9fc9-053458292340"
+  ],
+  "billAmount": [
+   110
+  ]
+ },
+ "Priya1234": {
+  "name": "Priya",
+  "Ph.no": "123456789",
+  "purchase_rec": [
+   [
+    "1001",
+    "1025",
+    "1024",
+    "1019"
+   ]
+  ],
+  "topr": [
+   "Sun Sep  5 19:10:09 2021"
+  ],
+  "transectio_id": [
+   "17f226cb-b61e-4fa9-8f84-2883abeea4c5"
+  ],
+  "billAmount": [
+   655
+  ]
+ },
+ "aastha0999": {
+  "name": "aastha",
+  "Ph.no": "099998877665",
+  "purchase_rec": [],
+  "topr": [],
+  "transectio_id": [],
+  "billAmount": []
+ },
+ "aastha madaan1234": {
+  "name": "aastha madaan",
+  "Ph.no": "12345678",
+  "purchase_rec": [],
+  "topr": [],
+  "transectio_id": [],
+  "billAmount": []
+ },
+ "maya1234": {
+  "name": "maya",
+  "Ph.no": "1234567890",
+  "purchase_rec": [
+   [
+    "1031",
+    "1030"
+   ]
+  ],
+  "topr": [
+   "Mon Sep  6 09:14:03 2021"
+  ],
+  "transectio_id": [
+   "f2bad768-a9b5-45dc-af08-3b98ed7dfdca"
+  ],
+  "billAmount": [
+   250
+  ]
+ }
+}

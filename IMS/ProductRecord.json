@@ -1,0 +1,465 @@
+{
+ "1001": {
+  "name": "kurkure",
+  "SP": 10,
+  "quant": 10,
+  "units": "pcs",
+  "exp-date": "oct-21",
+  "salerec": {
+   "sale": true,
+   "Salequant": 10,
+   "saleTime": [
+    "Sun Sep  5 01:34:35 2021",
+    "Sun Sep  5 01:35:26 2021",
+    "Sun Sep  5 01:36:00 2021",
+    "Sun Sep  5 19:09:11 2021",
+    "Sun Sep  5 19:09:30 2021"
+   ],
+   "transectionID": [
+    "2294ba29-fdd9-4b91-bef4-4e0f0c53b27a",
+    "d8ebb99f-0b60-45e2-bbd9-de75cabe5cce",
+    "2e379fd5-170a-4f42-ad2b-d8fe52cc6072",
+    "93be83b9-bab7-4e12-be8e-332f012b5a27",
+    "ce5a154f-e0a3-4bfa-8680-0ea8ae12af25"
+   ]
+  }
+ },
+ "1002": {
+  "name": "parle-G biscuits",
+  "SP": 10,
+  "quant": 17,
+  "units": "pcs",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": true,
+   "Salequant": 3,
+   "saleTime": [
+    "Sun Sep  5 01:36:46 2021"
+   ],
+   "transectionID": [
+    "85926ab6-5546-481d-9fc9-053458292340"
+   ]
+  }
+ },
+ "1003": {
+  "name": "Chilli-lays",
+  "SP": 15,
+  "quant": 28,
+  "units": "pcs",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 19:09:17 2021"
+   ],
+   "transectionID": [
+    "cf15becc-2285-4bd4-b567-9ea21b7abea2"
+   ]
+  }
+ },
+ "1004": {
+  "name": "sweet-salt Lays",
+  "SP": 15,
+  "quant": 30,
+  "units": "pcs",
+  "exp-date": "dec-21",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1005": {
+  "name": "borbourn biscuits",
+  "SP": 30,
+  "quant": 23,
+  "units": "pcs",
+  "exp-date": "dec-21",
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 19:08:29 2021"
+   ],
+   "transectionID": [
+    "5063ebec-ebac-433e-a859-041402b4beba"
+   ]
+  }
+ },
+ "1006": {
+  "name": "crack-jack biscuits",
+  "SP": 15,
+  "quant": 30,
+  "units": "pcs",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1007": {
+  "name": "Aata Noodles",
+  "SP": 20,
+  "quant": 90,
+  "units": "pcs",
+  "exp-date": "jan-22",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1008": {
+  "name": "MatchSticks Packets",
+  "SP": 5,
+  "quant": 100,
+  "units": "pcs",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1009": {
+  "name": "Digestive biscuits",
+  "SP": 40,
+  "quant": 70,
+  "units": "pcs",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1010": {
+  "name": "Fruit Juice",
+  "SP": 75,
+  "quant": 60,
+  "units": "L",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1011": {
+  "name": "Frooty",
+  "SP": 10,
+  "quant": 200,
+  "units": "L",
+  "exp-date": "feb-22",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1012": {
+  "name": "DairyMilk chocolates",
+  "SP": 50,
+  "quant": 200,
+  "units": "pcs",
+  "exp-date": "jun-22",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1013": {
+  "name": "Kit-Kat",
+  "SP": 20,
+  "quant": 200,
+  "units": "pcs",
+  "exp-date": "mar-22",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1014": {
+  "name": "5-stars",
+  "SP": 25,
+  "quant": 90,
+  "units": "pcs",
+  "exp-date": "dec-21",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1015": {
+  "name": "Choco-cookies",
+  "SP": 120,
+  "quant": 95,
+  "units": "pcs",
+  "exp-date": "jun-22",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1016": {
+  "name": "Fruit-Jam",
+  "SP": 155,
+  "quant": 300,
+  "units": "Kg",
+  "exp-date": "jun-22",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1017": {
+  "name": "Masala Maggin",
+  "SP": 20,
+  "quant": 90,
+  "units": "pcs",
+  "exp-date": "jan-22",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1018": {
+  "name": "Mango-Jam",
+  "SP": 155,
+  "quant": 100,
+  "units": "Kg",
+  "exp-date": "jun-22",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1019": {
+  "name": "MaryGold biscuits",
+  "SP": 35,
+  "quant": 67,
+  "units": "pcs",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": true,
+   "Salequant": 3,
+   "saleTime": [
+    "Sun Sep  5 19:10:09 2021"
+   ],
+   "transectionID": [
+    "17f226cb-b61e-4fa9-8f84-2883abeea4c5"
+   ]
+  }
+ },
+ "1020": {
+  "name": "Lux Soap",
+  "SP": 75,
+  "quant": 60,
+  "units": "pcs",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1021": {
+  "name": "Dettol Soap",
+  "SP": 40,
+  "quant": 200,
+  "units": "pcs",
+  "exp-date": "feb-22",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1022": {
+  "name": "Liquid Dettol",
+  "SP": 150,
+  "quant": 20,
+  "units": "L",
+  "exp-date": "NA",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1023": {
+  "name": "Surf excel",
+  "SP": 220,
+  "quant": 43,
+  "units": "kg",
+  "exp-date": "mar-22",
+  "salerec": {
+   "sale": false,
+   "Salequant": 0,
+   "saleTime": [],
+   "transectionID": []
+  }
+ },
+ "1024": {
+  "name": "VIM",
+  "SP": 30,
+  "quant": 197,
+  "units": "pcs",
+  "exp-date": "NA",
+  "salerec": {
+   "sale": true,
+   "Salequant": 3,
+   "saleTime": [
+    "Sun Sep  5 19:09:56 2021"
+   ],
+   "transectionID": [
+    "575be98b-ecf8-4f03-b2a0-2b88ad646e2d"
+   ]
+  }
+ },
+ "1025": {
+  "name": "Dettol Hand sanitizer",
+  "SP": 220,
+  "quant": 198,
+  "units": "L",
+  "exp-date": "mar-22",
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 19:09:42 2021"
+   ],
+   "transectionID": [
+    "b10e0ff8-bcb1-45cb-b1b5-7e86a77fb137"
+   ]
+  }
+ },
+ "1026": {
+  "name": "GoodDay Biscuits",
+  "SP": 30,
+  "quant": 198,
+  "units": "pcs",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 01:36:37 2021"
+   ],
+   "transectionID": [
+    "101342be-a427-4944-be35-0ab0f0aa04f9"
+   ]
+  }
+ },
+ "1027": {
+  "name": "choco Biscuits",
+  "SP": 20,
+  "quant": 18,
+  "units": "pcs",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 01:36:37 2021"
+   ],
+   "transectionID": [
+    "101342be-a427-4944-be35-0ab0f0aa04f9"
+   ]
+  }
+ },
+ "1028": {
+  "name": "milk chocolate",
+  "SP": 30,
+  "quant": 19,
+  "units": "pcs",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 01:36:37 2021"
+   ],
+   "transectionID": [
+    "101342be-a427-4944-be35-0ab0f0aa04f9"
+   ]
+  }
+ },
+ "1029": {
+  "name": "milk bikies",
+  "SP": 20,
+  "quant": 190,
+  "units": "pcs",
+  "exp-date": "nov-21",
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Sun Sep  5 01:36:37 2021"
+   ],
+   "transectionID": [
+    "101342be-a427-4944-be35-0ab0f0aa04f9"
+   ]
+  }
+ },
+ "1030": {
+  "name": "waffers",
+  "SP": 90,
+  "quant": 0,
+  "units": "pcs",
+  "exp-date": "oct-21",
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Mon Sep  6 09:14:03 2021"
+   ],
+   "transectionID": [
+    "f2bad768-a9b5-45dc-af08-3b98ed7dfdca"
+   ]
+  }
+ },
+ "1031": {
+  "name": "cocola",
+  "SP": 35,
+  "quant": 10,
+  "units": "L",
+  "exp-date": "oct-21",
+  "salerec": {
+   "sale": true,
+   "Salequant": 2,
+   "saleTime": [
+    "Mon Sep  6 09:13:54 2021"
+   ],
+   "transectionID": [
+    "e318cae0-691a-44e4-a074-62a764424235"
+   ]
+  }
+ }
+}
