@@ -13,11 +13,11 @@ IMS helps you to manage your inventory data and keep track of your sales record 
 -ProductRecord.json also have record of which product is sold or not and against which TransectionID[],saletime[] under sale{}.
 
 ## json file Structure
-### ProductRecord
+#### ProductRecord
 { "1001": {"name": "","SP":,"quant":,"units": "Kg/L/pcs","exp-date": "","salerec": {"sale": true/false,"Salequant":,"saleTime":["","",],"transectionID": ["ce5a154f-e0a3-4bfa-8680-0ea8ae12af25"]}}}
-### Cut_Record
+#### Cut_Record
 {"smith00":{"name": "smith","Ph.no": "00","purchase_rec": [],"topr": [],"transectio_id": [],"billAmount": []}}
-###sale_record.json
+#### sale_record
 {"1111": {"name": "","SP":,"salerec": {"sale": true,"Salequant": 2,"saleTime": [],"transectionID": []}}}
 
 ## Feature
