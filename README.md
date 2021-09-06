@@ -8,9 +8,9 @@ IMS helps you to manage your inventory data and keep track of your sales record 
 -Added new inventory to ProductRecord.json file. </br>
 -Catalogue Display after reading json file </br>
 -customer may purchase any number of item which is futher added to his card (if product "exist and is available") else it will display "not found" </br>
--his/her purchase get recorded in cust_record.json whenever purchase is done, with corresponding time of purchase{topr[]},transectionID[],TotalBill Amount[]
--this product sale will also be reflected in sale_record.json {where all products have their record of sale with corresponding the time of purchase[],transectionID[],total quantity sold[] }
--ProductRecord.json also have record of which product is sold or not and against which TransectionID[],saletime[] under sale{}.
+-his/her purchase get recorded in cust_record.json whenever purchase is done, with corresponding time of purchase{topr[]},transectionID[],TotalBill Amount[] </br>
+-this product sale will also be reflected in sale_record.json {where all products have their record of sale with corresponding the time of purchase[],transectionID[],total quantity sold[] } </br>
+-ProductRecord.json also have record of which product is sold or not and against which TransectionID[],saletime[] under sale{}. </br>
 
 ## json file Structure
 #### ProductRecord
@@ -21,12 +21,12 @@ IMS helps you to manage your inventory data and keep track of your sales record 
 {"1111": {"name": "","SP":,"salerec": {"sale": true,"Salequant": 2,"saleTime": [],"transectionID": []}}}
 
 ## Feature
--Added item to invetory
--catalogue display
--chk new/existing customer in basis of name &phn
--add item to cart
--bill after purchase
--update all the json record.
+-Added item to invetory </br>
+-catalogue display </br>
+-chk new/existing customer in basis of name &phn </br>
+-add item to cart </br> 
+-bill after purchase </br>
+-update all the json record. </br>
 
 ### Author
 
